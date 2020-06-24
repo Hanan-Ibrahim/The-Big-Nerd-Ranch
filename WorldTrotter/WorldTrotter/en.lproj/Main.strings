@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "100"; ObjectID = "0C4-56-Zes"; */
+"0C4-56-Zes.text" = "100";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "EVj-g1-dgl"; */
+"EVj-g1-dgl.title" = "Convert";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "Mqu-rW-wGS"; */
+"Mqu-rW-wGS.title" = "Map";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "Oa4-Du-EoX"; */
+"Oa4-Du-EoX.text" = "is really";
+
+/* Class = "UIViewController"; title = "Map"; ObjectID = "UFG-8G-Roj"; */
+"UFG-8G-Roj.title" = "Map";
+
+/* Class = "UILabel"; text = "degrees Fehrenheit"; ObjectID = "WOT-J6-toC"; */
+"WOT-J6-toC.text" = "degrees Fehrenheit";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "kvK-cm-4Vs"; */
+"kvK-cm-4Vs.text" = "degrees Celsius";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "vld-Pf-lw8"; */
+"vld-Pf-lw8.placeholder" = "value";
+
+/* Class = "UITabBarItem"; title = "BigNerdRanch"; ObjectID = "z8O-CL-LWQ"; */
+"z8O-CL-LWQ.title" = "BigNerdRanch";
